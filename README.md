@@ -10,6 +10,30 @@
 
 Lista Duplamente Encadeada em python.
 
+Para criar o ambiente.
+
+## Linux
+
+  python3 -m venv venv
+
+## Windows
+
+  python -m venv venv
+
+Comando ativar ambiente.
+
+## Linux Ambiente venv
+
+source ./venv/bin/activate
+
+## Windows Ambiente venv
+
+venv\Scripts\Activate
+
+## Caso algum comando retorne um erro de permissão no Windows execute o código e tente novamente
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
 ### :scroll: Alunos participantes
 
  :woman: – Nome: AMANDA QUEIROZ \
