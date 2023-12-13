@@ -10,7 +10,7 @@
 
 Lista Duplamente Encadeada em python.
 
-## Para criar o ambiente.
+## Para criar o ambiente
 
 ### Linux
 
@@ -20,7 +20,7 @@ Lista Duplamente Encadeada em python.
 
   python -m venv venv
 
-## Comando ativar ambiente.
+## Comando ativar ambiente
 
 ### Linux Ambiente venv
 

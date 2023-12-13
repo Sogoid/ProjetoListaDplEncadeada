@@ -1,4 +1,4 @@
-"""Finalidade: Sistema para Conversão de Escalas de Temperatura.
+"""Finalidade: Sistema demostrando Lista Duplamente Encadeada.
 Autor: AMANDA QUEIROZ
 Autor: CLEBER BATISTA RIBEIRO
 Autor: Diogo da Silveira Ribeiro
