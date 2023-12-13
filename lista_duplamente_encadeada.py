@@ -1,7 +1,8 @@
 """Finalidade: Sistema demostrando Lista Duplamente Encadeada.
-Autor: AMANDA QUEIROZ
-Autor: CLEBER BATISTA RIBEIRO
-Autor: Diogo da Silveira Ribeiro
+Autor: AMANDA QUEIROZ - Matrícula: 029998000ADS000111
+Autor: CLEBER BATISTA RIBEIRO - Matrícula: 029998000ADS000109
+Autor: DIOGO DA SILVEIRA RIBEIRO - Matrícula: 029998000ADS000076
+]Autor: MARIANE DANTAS CARDOSO - Matrícula: 029998000ADS000087
 data: 10/12/2023
 Versão: 0.1
 Python versão: 3.10.12
